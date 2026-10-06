@@ -1,6 +1,6 @@
 {
   "FileName": "ConfigVGC",
-  "Version": "12.04",
+  "Version": "12.05",
   "ReleaseNotes": "new config v 11.28",
   "contactSupport": "",
   "config_url": "",
@@ -67,12 +67,12 @@
       "ProxyPort": "",
       "AutoLogIn": "true",
       "Username": "HV9+3Tb3v3Yab+SJbnQzkA==",
-      "Password": "fOTgeYCFD4gV6G3Eu3\/n6Q==",
+      "Password": "WKmkBRivwFCsuEk+rC0GWJs\/8lI=",
       "MultiCert": "false",
       "ovpnCertificate": "",
       "Server_msg": "sts",
       "Server_exp_box": "false",
-      "Server_exp": "0-spliter-11:36 pm",
+      "Server_exp": "0-spliter-12:04 am",
       "server_web_renew": "www.vpnjantit.com"
     }
   ],
