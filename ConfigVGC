@@ -1,81 +1,16 @@
 {
   "FileName": "ConfigHub",
-  "Version": "11.22",
-  "ReleaseNotes": "new updates now 11.22",
+  "Version": "12.00",
+  "ReleaseNotes": "",
   "contactSupport": "",
   "config_url": "",
   "account_api": "",
   "cloud_get_api": "",
   "cloud_post_api": "",
-  "AppConfPass": "5:5-8:4",
-  "Servers": [
-    {
-      "Name": "12.161.133.212",
-      "serverType": 1,
-      "FLAG": "afghanistan",
-      "Category": 0,
-      "ServerIP": "K0Iy1v4HlKSv1TLUMBgej+\/cI8QQxpSEYq2vaunm68eUh7yQa+htFy6HxpuxKi3v",
-      "ServerCloudFront": "K0Iy1v4HlKSv1TLUMBgej+\/cI8QQxpSEYq2vaunm68eUh7yQa+htFy6HxpuxKi3v",
-      "ServerHTTP": "",
-      "TcpPort": "1194:53",
-      "SSLPort": "443",
-      "ProxyHost": "",
-      "ProxyPort": "",
-      "AutoLogIn": true,
-      "Username": "KvpDnv7oRVCSKbBocOK4\/MFDKm1drFTO9W8U5Exl\/vD+prxMD3KL2NXw1l0=",
-      "Password": "x+X\/tSf5C6DwwhNuYVDFHQ==",
-      "MultiCert": false,
-      "ovpnCertificate": "",
-      "Server_msg": "Dream",
-      "Server_exp_box": true,
-      "Server_exp": "1791685310040-spliter-10:22 am",
-      "server_web_renew": "www.vpnjantit.com"
-    }
-  ],
-  "HTTPNetworks": [
-    {
-      "FLAG": "9mobile",
-      "proto_spin": 0,
-      "server_type": "cf",
-      "Name": "",
-      "NetworkPayload": "5gjXbdB2dasYaCgZnxmtt7Z+ULeqsiJ0z2mPPpvj6khkYiFqzyKRekPel+plWyVInL\/GrgD8ysc0cI6LkoUFFeqeuK+tFgFaRn036cWN6rtzp9A2Hcl3P8Z5uwaifv8qTMN+v7oVxThpp4mw49vvI3Tlge7WrxXX9g0jA2USyv3RTbI7ftXDTg92PWT0tDB3nqcjhOaBNmqsig5UacYzPzIazNW1pX7olxtqTA\/6BPFGcfVe81f+1sFCgHF57VAqJL5Oc\/MFTV3S\/Cp4avSAsRgd6Atk5\/IjDS0Lnj+cqBfUjugc0H81FG2ZSJhhwtVmtu\/UJkteF7BRCmaF+71QMMtgdhjeqVovv99z4R1PNAdZw5cyiSEUpSJPjhbtBSzWAduQMHOvRBGZHK+yJr7ncoVKqJDuFeZzQ95j2eWT90\/Zjm4MsgSiOL8XTiV2TH2E5vpyANR7kY7ZPp+uidjtt3AAW0E\/sFiDSBmVUQpKX\/iYMM6IloXmiVBwqlcRMARKDtcsfU7gXsUlNjxYHgV02QakAd68YKA2huheR9cMyvQFxQVCkIo2w90g+6tXX+CIUlRaQeVTknDCXagYmvxuiumleJGJQY+C\/Y3lB\/4kZWhP49Zkz\/R7tCwbt8dH3P7TFRV5Cg==",
-      "Info": "",
-      "UseDefProxy": true,
-      "AutoReplace": false,
-      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
-      "SquidPort": "8080",
-      "NetworkFrontQuery": "",
-      "NetworkBackQuery": ""
-    }
-  ],
-  "SSLNetworks": [
-    {
-      "FLAG": "9mobile",
-      "proto_spin": 3,
-      "server_type": "cf",
-      "Name": "",
-      "SSLSNI": "JyXBVedY+LeEcKA24eCSM6364PA1YYlLu7CSk7\/052B8vrP+DA9t86eB+GI=",
-      "SSLPayload": "",
-      "Info": "",
-      "UseDefProxy": true,
-      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
-      "SquidPort": "8080",
-      "SSLPort": ""
-    },
-    {
-      "FLAG": "9mobile",
-      "proto_spin": 4,
-      "server_type": "cf",
-      "Name": "gtm",
-      "SSLSNI": "",
-      "SSLPayload": "5gjXbdB2dasYaCgZnxmtt7Z+ULeqsiJ0z2mPPpvj6khkYiFqzyKRekPel+plWyVInL\/GrgD8ysc0cI6LkoUFFeqeuK+tFgFaRn036cWN6rtzp9A2Hcl3P8Z5uwaifv8qTMN+v7oVxThpp4mw49vvI3Tlge7WrxXX9g0jA2USyv3RTbI7ftXDTg92PWT0tDB3nqcjhOaBNmqsig5UacYzPzIazNW1pX7olxtqTA\/6BPFGcfVe81f+1sFCgHF57VAqJL5Oc\/MFTV3S\/Cp4avSAsRgd6Atk5\/IjDS0Lnj+cqBfUjugc0H81FG2ZSJhhwtVmtu\/UJkteF7BRCmaF+71QMMtgdhjeqVovv99z4R1PNAdZw5cyiSEUpSJPjhbtBSzWAduQMHOvRBGZHK+yJr7ncoVKqJDuFeZzQ95j2eWT90\/Zjm4MsgSiOL8XTiV2TH2E5vpyANR7kY7ZPp+uidjtt3AAW0E\/sFiDSBmVUQpKX\/iYMM6IloXmiVBwqlcRMARKDtcsfU7gXsUlNjxYHgV02QakAd68YKA2huheR9cMyvQFxQVCkIo2w90g+6tXX+CIUlRaQeVTknDCXagYmvxuiumleJGJQY+C\/Y3lB\/4kZWhP49Zkz\/R7tCwbt8dH3P7TFRV5Cg==",
-      "Info": "sts gtm",
-      "UseDefProxy": true,
-      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
-      "SquidPort": "8080",
-      "SSLPort": ""
-    }
-  ],
+  "AppConfPass": "",
+  "Servers": [],
+  "HTTPNetworks": [],
+  "SSLNetworks": [],
   "JSONsettings": [
     {
       "mLocalPort": "1080",
