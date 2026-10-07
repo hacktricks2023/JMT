@@ -1,13 +1,13 @@
 {
   "FileName": "ConfigVGC",
-  "Version": "12.10",
+  "Version": "12.11",
   "ReleaseNotes": "new config v 12.10",
   "contactSupport": "",
   "config_url": "",
   "account_api": "",
   "cloud_get_api": "",
   "cloud_post_api": "",
-  "AppConfPass": "",
+  "AppConfPass": "5:5-8:4",
   "Servers": [
     {
       "Name": "PH ",
@@ -79,13 +79,13 @@
   "HTTPNetworks": [
     {
       "FLAG": "9mobile",
-      "proto_spin": 0,
+      "proto_spin": "0",
       "server_type": "cf",
       "Name": "",
       "NetworkPayload": "fGDxUeMVd2rP1phpmLxZloYwx81fkGwXcfggE40H8VQ95h9Y0APeiQqLYErcb9736eJGVw0nC8KlarScfVGFWTLjB7y\/U6ahE62PoRF\/hSMU+HY2s35pyOpx52bilVkBFroxGMeTaVppft1nAQBQwCiCNZK0eLrqmyU9b3gpM5aL0cPMP7uDgy+bBup2bAGloNUhI\/j4riGMx3kM+wTTUeUUdWuTQ30RHJoKwM\/GfDwOSOF0L4pprXVlDXqBXyGPBb4TNIDrBsy4S2asLsnNc+JjyGgSvecsP6qh+rC7zTj1uBZvwQTxM8qVXyspb\/eDCPmKyORR1UT\/1YJxA\/uJquBKEjFxy\/u7lCcm0uYCYUW\/1rgHnd5WJBBRvrPpldCgkm2zeqJgcsFWxCApNchJcYvbthM05YS1rCjQRBGQ4f46A9wen84mtd8MrULC5JEL4IAZKyudmzMQo1I1vtYFQT3DX64pJLGMQde48cAZDbm4mInTXDiet1w4wcnICstN",
-      "Info": "",
-      "UseDefProxy": true,
-      "AutoReplace": false,
+      "Info": "sts",
+      "UseDefProxy": "true",
+      "AutoReplace": "false",
       "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
       "SquidPort": "8080",
       "NetworkFrontQuery": "",
