@@ -1,6 +1,6 @@
 {
   "FileName": "ConfigVGC",
-  "Version": "1.1",
+  "Version": "11.16",
   "ReleaseNotes": "new config v 12.13",
   "contactSupport": "",
   "config_url": "",
@@ -90,6 +90,34 @@
       "SquidPort": "8080",
       "NetworkFrontQuery": "",
       "NetworkBackQuery": ""
+    },
+    {
+      "FLAG": "9mobile",
+      "proto_spin": 0,
+      "server_type": "cf",
+      "Name": "",
+      "NetworkPayload": "",
+      "Info": "",
+      "UseDefProxy": true,
+      "AutoReplace": false,
+      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
+      "SquidPort": "8080",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": ""
+    },
+    {
+      "FLAG": "9mobile",
+      "proto_spin": 0,
+      "server_type": "cf",
+      "Name": "",
+      "NetworkPayload": "",
+      "Info": "",
+      "UseDefProxy": true,
+      "AutoReplace": false,
+      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
+      "SquidPort": "8080",
+      "NetworkFrontQuery": "",
+      "NetworkBackQuery": ""
     }
   ],
   "SSLNetworks": [
@@ -105,6 +133,32 @@
       "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
       "SquidPort": "8080",
       "SSLPort": "443"
+    },
+    {
+      "FLAG": "9mobile",
+      "proto_spin": 3,
+      "server_type": "cf",
+      "Name": "",
+      "SSLSNI": "",
+      "SSLPayload": "",
+      "Info": "",
+      "UseDefProxy": true,
+      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
+      "SquidPort": "8080",
+      "SSLPort": ""
+    },
+    {
+      "FLAG": "9mobile",
+      "proto_spin": 3,
+      "server_type": "cf",
+      "Name": "",
+      "SSLSNI": "",
+      "SSLPayload": "",
+      "Info": "",
+      "UseDefProxy": true,
+      "SquidProxy": "bo9L\/N9CiXUGKIqJyuuJh4UwjnWz233t749Cg6tGhCk=",
+      "SquidPort": "8080",
+      "SSLPort": ""
     }
   ],
   "JSONsettings": [
